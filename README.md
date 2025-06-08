@@ -20,9 +20,3 @@ Este projeto é uma réplica simplificada do **Linktree**, desenvolvida com **HT
 - **Design:**
   - Imagens com bordas arredondadas (`border-radius: 75px`)
   - Links em forma de botões clicáveis com `border-radius: 10px`
-
-## 🚀 Como usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/clone-linktree.git
