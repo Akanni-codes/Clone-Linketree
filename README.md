@@ -7,7 +7,8 @@ Este projeto é uma réplica simplificada do **Linktree**, desenvolvida com **HT
 
 ## 📷 Prévia
 
-![Preview do Projeto](./1405b88d-9c76-4bc9-bd06-ad260ef13200.png)
+![image](https://github.com/user-attachments/assets/dbf0b997-980a-4917-9969-320628022270)
+
 
 ## 🎨 Estilo
 
